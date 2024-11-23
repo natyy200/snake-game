@@ -118,7 +118,27 @@ const checkEat = () => {
     }
 }
 
-const 
+const checkCollision = () => {
+    const head = snake[snake.length - 1];
+    const canvaLimit = canvas.width - size; 
+    const neckindex = snake.length - 2;
+
+    const wallCollision = head.x < 0 || head.x > canvaLimit || head.y < 0 || head.y > canvaLimit;
+
+    const selfCollision = snake.find((position, index) => {
+        return index < neckindex && position.x == head.x && position.y == head.y;
+    });
+
+    if (wallCollision || selfCollision) {
+        gameOver();
+    }
+
+
+}
+
+const gameOver = () => {
+    direction = undefined;
+}
 
 const gameLoop = () => {
     clearInterval(loopId);
@@ -129,6 +149,7 @@ const gameLoop = () => {
     drawSnake();
     moveSnake();
     checkEat();
+    checkCollision();
     
    loopId = setTimeout(() => {
         gameLoop();
