@@ -2,11 +2,11 @@
 
 ## Instruções:
 
-⋆ Setas para mover;
+### ⋆ Setas para mover;
 
-⋆ Colete a comida para crescer ;
+### ⋆ Colete a comida para crescer ;
 
-⋆ Se bater em si mesmo, ou tocar na borda, perde!
+### ⋆ Se bater em si mesmo, ou tocar na borda, perde!
 
 ## Créditos: 
 
