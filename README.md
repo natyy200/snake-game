@@ -12,4 +12,4 @@
 
 ### música: Super Bomberman 2 - Stage One
 
-![](https://cdn-icons-png.flaticon.com/512/5375/5375715.png)
+![](https://cdn-icons-png.flaticon.com/512/1303/1303574.png)
