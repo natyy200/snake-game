@@ -1,6 +1,7 @@
 # 𓆙 𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎 𓆙
 
 𓆙 Instruções 𓆙
+
 𓆙 Setas para mover;
 
 𓆙 Colete a comida para crescer ;
