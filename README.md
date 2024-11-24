@@ -8,4 +8,8 @@
 
 ⋆ Se bater em si mesmo, ou tocar na borda, perde!
 
+## Créditos: 
+
+música: Super Bomberman 2 - Stage One
+
 ![](https://cdn-icons-png.flaticon.com/512/5375/5375715.png)
