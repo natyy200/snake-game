@@ -1,6 +1,6 @@
 # 𓆙 𝑺𝒏𝒂𝒌𝒆 𝑮𝒂𝒎𝒆 𓆙
 
-Instruções:
+## Instruções:
 
 ⋆ Setas para mover;
 
