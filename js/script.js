@@ -1,6 +1,9 @@
 const canvas = document.querySelector('canvas');
 const ctx = canvas.getContext('2d');
 
+const music = new Audio("./assets/music.mp3");
+music.volume = 0.3;
+
 const score = document.querySelector('.score--value');
 const finalScore = document.querySelector('.final-score > span');
 const menu = document.querySelector('.menu-screen');
@@ -176,6 +179,7 @@ gameLoop();
 
 
 document.addEventListener("keydown", ({ key }) => {
+    music.play();
     if(key == "ArrowRight" && direction != 'left') {
         direction = "right";
     }
