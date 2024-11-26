@@ -172,7 +172,7 @@ const gameLoop = () => {
     
    loopId = setTimeout(() => {
         gameLoop();
-    }, 100);
+    }, 250);
 }
 
 gameLoop();
@@ -189,7 +189,8 @@ document.addEventListener("keydown", ({ key }) => {
     if(key == "ArrowDown" && direction != 'up') {
         direction = "down";
     }
-    if(key == "ArrowUp" && direction != 'down') {
+ 𓆙 𝑺𝒏𝒂𝒌𝒆 𝑮𝒂𝒎𝒆 𓆙
+   if(key == "ArrowUp" && direction != 'down') {
         direction = "up";
     }
 });
