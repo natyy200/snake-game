@@ -189,7 +189,6 @@ document.addEventListener("keydown", ({ key }) => {
     if(key == "ArrowDown" && direction != 'up') {
         direction = "down";
     }
- 𓆙 𝑺𝒏𝒂𝒌𝒆 𝑮𝒂𝒎𝒆 𓆙
    if(key == "ArrowUp" && direction != 'down') {
         direction = "up";
     }
