@@ -2,7 +2,7 @@
 
 ## Instruções:
 
-### ⋆ Setas para mover;
+### ⋆ Setas para mover ;
 
 ### ⋆ Colete a comida para crescer ;
 
